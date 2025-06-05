@@ -33,7 +33,7 @@ When the scheduled time arrives, the system **executes a simple task**, like pri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/java-job-scheduler.git
+git clone https://github.com/BhanuBurman/Job-Scheduling-System.git
 cd java-job-scheduler
 ```
 ### 2. Compile and Run
